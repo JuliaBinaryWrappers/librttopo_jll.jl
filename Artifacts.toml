@@ -1,0 +1,115 @@
+[[librttopo]]
+arch = "aarch64"
+git-tree-sha1 = "00c3eaa58fbe4257760a4506faed13899f664ad8"
+libc = "glibc"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "2f0b93243cd4ec9a51d81041403cecda2d7837cb614fc970c7d4087a9c301f76"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.aarch64-linux-gnu.tar.gz"
+[[librttopo]]
+arch = "aarch64"
+git-tree-sha1 = "9fa7d07a356e5c051dc0027ba8d79bc956bcfb23"
+libc = "musl"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "26d417a8de397824b81070d2887d1ccb16cd5710241ad13cf47ee54bdbe0c389"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.aarch64-linux-musl.tar.gz"
+[[librttopo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7433f69ced7a417e3d76513703634c9f267ff246"
+libc = "glibc"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "ca76575fb03f064961980e07944c8585c242400803c2ac0cbe38ace071658b84"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[librttopo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d1e92227684d1de8127de7a94ec7b5009831d7d"
+libc = "musl"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "22fda4f5261dba4371293e8c34b8172a41dea16c37740abf8abb43d27d2abea3"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.armv7l-linux-musleabihf.tar.gz"
+[[librttopo]]
+arch = "i686"
+git-tree-sha1 = "3ea59c641eb622318939a2ad0f318c3a1d65ff0a"
+libc = "glibc"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "9d1ad368873339e673cfab7ef38d657efcdf7994504069d8cc6f23c72dbfe1ee"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.i686-linux-gnu.tar.gz"
+[[librttopo]]
+arch = "i686"
+git-tree-sha1 = "78a35913d3888ab3285838b685b3d2947149a764"
+libc = "musl"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "5fee891952b67d5d869de2cb8efe01ec37a306d37347324e6a169aba4683dbc4"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.i686-linux-musl.tar.gz"
+[[librttopo]]
+arch = "i686"
+git-tree-sha1 = "c7bdf357a799f3e17972eebc8989c8960934483e"
+os = "windows"
+
+    [[librttopo.download]]
+    sha256 = "81a18476266aa02995f6c6eacdcce9e584cbc84ce700d48b3def6b15cccd8b3c"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.i686-w64-mingw32.tar.gz"
+[[librttopo]]
+arch = "powerpc64le"
+git-tree-sha1 = "ca4225169327078f663955a5adfd288b21554ff5"
+libc = "glibc"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "c9e57c5151babe694ba3fbfd67e271b30c5d7285f47dc6af468d75a013e38913"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.powerpc64le-linux-gnu.tar.gz"
+[[librttopo]]
+arch = "x86_64"
+git-tree-sha1 = "f22bb96085b43a9afa0192a926e036cd4e0c8078"
+os = "macos"
+
+    [[librttopo.download]]
+    sha256 = "10c7278b23463657652b8bef4dd5d660fdcb9f2647c5cbf82b68a6e831f4697e"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[librttopo]]
+arch = "x86_64"
+git-tree-sha1 = "fdfcfaf28eb7f6267be43a71544395b5ff65de37"
+libc = "glibc"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "9e11b8c163efc34d49797453dee8d9ceb876de8a07ec31e2ae6b9456744b6007"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.x86_64-linux-gnu.tar.gz"
+[[librttopo]]
+arch = "x86_64"
+git-tree-sha1 = "f8e70c8bdd4b33ccd194677140e589b06cd2a21c"
+libc = "musl"
+os = "linux"
+
+    [[librttopo.download]]
+    sha256 = "90ea99a6c904671dc3f54afe6b939e890d84ed3438bbcea6006edb577667395d"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.x86_64-linux-musl.tar.gz"
+[[librttopo]]
+arch = "x86_64"
+git-tree-sha1 = "028adb99262c562b17d5fe2877ca59c622c51372"
+os = "freebsd"
+
+    [[librttopo.download]]
+    sha256 = "0ae2a3965ad6591ccd87e2078d47b26664d29e9e72dc17af336d4f5173b7477c"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+[[librttopo]]
+arch = "x86_64"
+git-tree-sha1 = "2db7b0a139dde5dcfffcbe59a81a4dc1e3b8a9a9"
+os = "windows"
+
+    [[librttopo.download]]
+    sha256 = "b242b1e851897eb98d51953393478bb5e94ec826b2460e06bad165a7260df9ee"
+    url = "https://github.com/JuliaBinaryWrappers/librttopo_jll.jl/releases/download/librttopo-v1.1.0+0/librttopo.v1.1.0.x86_64-w64-mingw32.tar.gz"
